@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm shima aprin</h1>
 
-
+<img align="right" src="https://github.com/shimamuzavvir/shimamuzavvir/blob/main/Web%20Developer%20Illustration%20Facebook%20Post.png" width="500" height="350">
 
 <h3 align="center">A passionate full stack developer from India</h3>
 
